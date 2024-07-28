@@ -3,7 +3,7 @@ Exemplos do livro "Dominando Dados: Um Guia Completo de Data Analytics e Modelag
 **Dominando Dados: Um Guia Completo de Data Analytics e Modelagem com Power BI**
 
 1. Introdução
-(OK) 2. Nivelamento_InMemoryCalculations
+2. Nivelamento_InMemoryCalculations
 3. Fórmulas Matriciais
 4. O que é BI
 5. 5 passos importantes
